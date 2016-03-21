@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name		Disable Confluence Editor (TinyMCE) Keyboard Shortcuts
+// @name		disable_atlassian_keyboard_shortcuts.js
 // @author              Marc Tamsky (github: tamsky)
 // @namespace	        about:blank
 // @version             1.0.1

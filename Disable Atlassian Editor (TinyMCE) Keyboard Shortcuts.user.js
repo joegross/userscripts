@@ -5,6 +5,7 @@
 // @version             1.0.1
 // @description		disable keyboard shortcuts for Confluence editor:  https://jira.atlassian.com/browse/CONF-21908  (old url: http://userscripts.org/scripts/review/423899.html )
 // @match        	https://*.atlassian.com/*
+// @grant         none
 // ==/UserScript==
 
 // ::Instructions::
